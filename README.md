@@ -97,7 +97,7 @@ whonow --port 53
 whonow --port 53 --logfile log.csv --verbose
 ```
 
-![whonow screenshot](.images/screenshot.png)
+![whonow screenshot](screenshot.png)
 
 If that ☝ is too much trouble, feel free to just use the public `whonow` server running on port 53 of `rebind.network`.🌐.
 
